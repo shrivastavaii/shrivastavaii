@@ -30,16 +30,6 @@ I'm **Isha**, a Computer Science + Data Science student at **Rutgers University*
 - Exploring AI security and data-driven systems
 - Making software that's fun and worth using every day
 
----
-
-
-<div align="center">
-  <img
-    src="assets/footer.png"
-    alt="Thanks for stopping by the kitchen!"
-    width="100%"
-  />
-</div>
 
 
 ----
@@ -56,5 +46,20 @@ I'm **Isha**, a Computer Science + Data Science student at **Rutgers University*
   />
 
 </div>
+
+
+
+---
+
+
+<div align="center">
+  <img
+    src="assets/footer.png"
+    alt="Thanks for stopping by the kitchen!"
+    width="100%"
+  />
+</div>
+
+
 
 
