@@ -41,3 +41,20 @@ I'm **Isha**, a Computer Science + Data Science student at **Rutgers University*
   />
 </div>
 
+
+----
+
+
+<div align="center">
+
+  <h3>contribution history</h3>
+
+  <img
+    src="https://ghchart.rshah.org/CB6A7E/shrivastavaii"
+    alt="GitHub contribution history"
+    width="100%"
+  />
+
+</div>
+
+
