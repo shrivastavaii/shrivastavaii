@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/header.svg" alt="Pixel kitchen themed introduction: hi, I'm Isha!" width="100%" />
+</div>
 
-<!--
-**shrivastavaii/shrivastavaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### `> welcome to my little corner of the internet_`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Isha**, a Computer Science + Data Science student at **Rutgers University**. I like making things that combine code, creativity, and a little bit of chaos.
+
+`[ software ]` &nbsp; `[ robotics ]` &nbsp; `[ data ]` &nbsp; `[ design ]`
+
+---
+
+### 🍅 what's cooking?
+
+| menu item | fresh out of the oven |
+| :--- | :--- |
+| **01 / MICROMOUSE** | Autonomous maze-solving robots, embedded firmware, and pathfinding. |
+| **02 / CHEFFY** | A social space for people who cook, bake, and make drinks at home. |
+| **03 / STREAMING ALGORITHMS** | Research on approximate frequency estimation in data streams. |
+| **04 / AI + EXPERIMENTS** | Exploring machine learning, security, and brain-inspired computing. |
+
+### 🧈 ingredients (tech stack)
+
+`Python` · `C` · `C++` · `JavaScript` · `SQL` · `React` · `Git`
+
+### 🍒 currently on the stove
+
+- Building and debugging tiny autonomous robots.
+- Exploring AI security and data-driven systems.
+- Making software feel a little more human (and fun).
+
+---
+
+<div align="center">
+  <sub>✳ thanks for stopping by the kitchen ✳</sub>
+</div>
