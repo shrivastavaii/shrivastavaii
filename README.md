@@ -17,9 +17,8 @@ I'm **Isha**, a Computer Science + Data Science student at **Rutgers University*
 | menu item | fresh out of the oven |
 | :--- | :--- |
 | **01 / MICROMOUSE** | Autonomous maze-solving robots, embedded firmware, and pathfinding. |
-| **02 / CHEFFY** | A social space for people who cook, bake, and make drinks at home. |
-| **03 / STREAMING ALGORITHMS** | Research on approximate frequency estimation in data streams. |
-| **04 / AI + EXPERIMENTS** | Exploring machine learning, security, and brain-inspired computing. |
+| **02 / STREAMING ALGORITHMS** | Research on approximate frequency estimation in data streams. |
+| **03 / AI + EXPERIMENTS** | Exploring machine learning, security, and brain-inspired computing. |
 
 ### 🧈 ingredients (tech stack)
 
