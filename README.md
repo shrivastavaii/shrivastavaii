@@ -4,9 +4,9 @@
 
 <br>
 
-### `> welcome to my little corner of the internet_`
+### `> a rotating menu of projects, experiments, and works in progress`
 
-I'm **Isha**, a Computer Science + Data Science student at **Rutgers University**. I like making things that combine code, creativity, and a little bit of chaos.
+I'm **Isha**, a Computer Science + Data Science student at **Rutgers University**. I like making things that combine tech and whimsy, and I'm interested in software engineering, data science, cybersecurity, and product design.
 
 `[ software ]` &nbsp; `[ robotics ]` &nbsp; `[ data ]` &nbsp; `[ design ]`
 
@@ -23,13 +23,13 @@ I'm **Isha**, a Computer Science + Data Science student at **Rutgers University*
 
 ### 🧈 ingredients (tech stack)
 
-`Python` · `C` · `C++` · `JavaScript` · `SQL` · `React` · `Git`
+`Java` · `Python` · `C` · `C++` · `JavaScript` · `SQL` · `React`
 
 ### 🍒 currently on the stove
 
-- Building and debugging tiny autonomous robots.
-- Exploring AI security and data-driven systems.
-- Making software feel a little more human (and fun).
+- Building and debugging tiny autonomous robots (micromice)
+- Exploring AI security and data-driven systems
+- Making software that's fun and worth using every day
 
 ---
 
