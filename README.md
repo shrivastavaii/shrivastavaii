@@ -33,6 +33,12 @@ I'm **Isha**, a Computer Science + Data Science student at **Rutgers University*
 
 ---
 
+
 <div align="center">
-  <sub>✳ thanks for stopping by the kitchen ✳</sub>
+  <img
+    src="assets/footer.png"
+    alt="Thanks for stopping by the kitchen!"
+    width="100%"
+  />
 </div>
+
