@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<rect width="1000" height="300" fill="#171218"/>
+<g opacity=".22" stroke="#5c4c60"><path d="M0 50H1000M0 100H1000M0 150H1000M0 200H1000M0 250H1000M50 0V300M100 0V300M150 0V300M200 0V300M250 0V300M300 0V300M350 0V300M400 0V300M450 0V300M500 0V300M550 0V300M600 0V300M650 0V300M700 0V300M750 0V300M800 0V300M850 0V300M900 0V300M950 0V300"/></g>
+<rect x="26" y="23" width="948" height="254" fill="none" stroke="#f5d66d" stroke-width="3"/>
+<rect x="26" y="23" width="948" height="34" fill="#2137e8"/>
+<text x="43" y="46" font-family="monospace" font-size="16" fill="#fff3cf">✳ KITCHEN.EXE  /  DEVELOPER PROFILE</text>
+<rect x="916" y="34" width="12" height="12" fill="#ff4939"/><rect x="939" y="34" width="12" height="12" fill="#fff3cf"/>
+<text x="65" y="130" font-family="monospace" font-size="64" font-weight="900" fill="#ff4b35">hi, i'm isha!</text>
+<text x="67" y="167" font-family="monospace" font-size="18" fill="#b5f6ce">software • robots • data • design</text>
+<rect x="66" y="192" width="456" height="43" fill="#f3db83"/>
+<text x="84" y="219" font-family="monospace" font-size="18" font-weight="bold" fill="#171218">CURRENTLY COOKING: COOL STUFF</text>
+<!-- pixel cherry -->
+<g transform="translate(755 105)"><path d="M45 40L78 6 108 19" stroke="#91e4ae" stroke-width="9" fill="none"/><path d="M78 6L63 -10" stroke="#91e4ae" stroke-width="9"/><rect x="10" y="52" width="64" height="64" fill="#f34436"/><rect x="0" y="65" width="80" height="40" fill="#f34436"/><rect x="17" y="43" width="47" height="80" fill="#f34436"/><rect x="35" y="62" width="15" height="15" fill="#ffac8b"/><rect x="98" y="67" width="60" height="60" fill="#f34436"/><rect x="89" y="78" width="78" height="38" fill="#f34436"/><rect x="107" y="57" width="43" height="80" fill="#f34436"/><rect x="114" y="77" width="13" height="13" fill="#ffac8b"/></g>
+<text x="67" y="264" font-family="monospace" font-size="12" fill="#f3db83">001 / 100 — made with curiosity &amp; snacks</text>
+</svg>
